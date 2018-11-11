@@ -1,3 +1,4 @@
+#!/usr/bin/lua
 mputils = require 'mp.utils'
 traktpy = "/home/saja/.config/mpv/scripts-plus/traktpy.py"
 
