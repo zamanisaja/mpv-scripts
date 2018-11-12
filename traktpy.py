@@ -1,4 +1,5 @@
 #! /usr/bin/python2
+# This script does the actual job
 import ast
 from trakt import Trakt
 import getopt
