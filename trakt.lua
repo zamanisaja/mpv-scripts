@@ -1,4 +1,5 @@
 #!/usr/bin/lua
+-- Scrobbles to trakt
 mputils = require 'mp.utils'
 traktpy = "/home/saja/.config/mpv/scripts-plus/traktpy.py"
 
